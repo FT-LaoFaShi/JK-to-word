@@ -1,0 +1,23 @@
+2025-01-18 21:47:21,638 - INFO - 开始处理讲座编号: 55-049
+2025-01-18 21:48:08,380 - ERROR - 处理讲座 55-050 时出错: Alert Text: 您所選擇的文檔列表是空的,按確定返回!
+Message: unexpected alert open: {Alert text : 您所選擇的文檔列表是空的,按確定返回!}
+  (Session info: chrome=132.0.6834.84)
+Stacktrace:
+	GetHandleVerifier [0x00007FF706C3FC65+28741]
+	(No symbol) [0x00007FF706BA7910]
+	(No symbol) [0x00007FF706A44FDA]
+	(No symbol) [0x00007FF706AE0C76]
+	(No symbol) [0x00007FF706ABFCB3]
+	(No symbol) [0x00007FF706A89FB3]
+	(No symbol) [0x00007FF706A8B331]
+	GetHandleVerifier [0x00007FF706F7A7BD+3414941]
+	GetHandleVerifier [0x00007FF706F8E6CA+3496618]
+	GetHandleVerifier [0x00007FF706F841BD+3454365]
+	GetHandleVerifier [0x00007FF706D0850B+850155]
+	(No symbol) [0x00007FF706BB387F]
+	(No symbol) [0x00007FF706BAF144]
+	(No symbol) [0x00007FF706BAF2DD]
+	(No symbol) [0x00007FF706B9E0F9]
+	BaseThreadInitThunk [0x00007FFC99F47BD4+20]
+	RtlUserThreadStart [0x00007FFC9AC4CEE1+33]
+

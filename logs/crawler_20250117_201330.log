@@ -1,0 +1,29 @@
+2025-01-17 20:13:32,071 - INFO - 开始处理讲座编号: 01-003
+2025-01-17 20:15:28,232 - INFO - 开始处理讲座编号: 01-007
+2025-01-17 20:15:58,600 - INFO - 开始处理讲座编号: 01-011
+2025-01-17 20:16:33,996 - INFO - 开始处理讲座编号: 01-013
+2025-01-17 20:17:16,893 - INFO - 开始处理讲座编号: 01-014
+2025-01-17 20:17:57,982 - INFO - 开始处理讲座编号: 01-015
+2025-01-17 20:18:20,842 - INFO - 开始处理讲座编号: 01-001
+2025-01-17 20:19:21,407 - INFO - 开始处理讲座编号: 01-002
+2025-01-17 20:20:00,876 - INFO - 开始处理讲座编号: 01-004
+2025-01-17 20:21:12,499 - INFO - 开始处理讲座编号: 01-005
+2025-01-17 20:21:39,097 - INFO - 开始处理讲座编号: 01-006
+2025-01-17 20:22:29,800 - INFO - 开始处理讲座编号: 01-008
+2025-01-17 20:23:02,399 - INFO - 开始处理讲座编号: 01-009
+2025-01-17 20:23:31,866 - INFO - 开始处理讲座编号: 01-010
+2025-01-17 20:23:57,670 - INFO - 开始处理讲座编号: 01-012
+2025-01-17 20:24:22,003 - INFO - 开始处理讲座编号: 02-002
+2025-01-17 20:24:52,616 - INFO - 开始处理讲座编号: 02-012
+2025-01-17 20:25:24,157 - INFO - 开始处理讲座编号: 02-018
+2025-01-17 20:25:44,771 - INFO - 开始处理讲座编号: 02-025
+2025-01-17 20:26:07,802 - INFO - 开始处理讲座编号: 02-026
+2025-01-17 20:26:30,245 - INFO - 开始处理讲座编号: 02-027
+2025-01-17 20:26:52,827 - INFO - 开始处理讲座编号: 02-034
+2025-01-17 20:27:49,488 - INFO - 开始处理讲座编号: 02-037
+2025-01-17 20:30:32,491 - INFO - 开始处理讲座编号: 02-038
+2025-01-17 20:30:56,730 - INFO - 开始处理讲座编号: 02-039
+2025-01-17 20:33:24,596 - INFO - 开始处理讲座编号: 02-040
+2025-01-17 20:36:11,645 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)': /session/3fd61216d54caf3b5de0b49101c1c684
+2025-01-17 20:36:15,671 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014B378B4E80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/3fd61216d54caf3b5de0b49101c1c684
+2025-01-17 20:36:19,680 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014B378B4820>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/3fd61216d54caf3b5de0b49101c1c684
